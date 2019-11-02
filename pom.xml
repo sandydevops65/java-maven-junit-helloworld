@@ -95,7 +95,7 @@
     <snapshotRepository>
 	<id>nexus-snapshots</id>
 	<url>http://localhost:8081/repository/SAMPLE-SNAP/</url>
-	</snapshotrepository>
+	</snapshotRepository>
 	</distributionManagement>
   <reporting>
     <plugins>
